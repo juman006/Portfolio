@@ -523,11 +523,11 @@ textarea:focus-visible {
   }
 
   .pill {
-    top: -0.05em;
-    bottom: auto;
-    width: 1.15em;
-    height: 1.15em;
-  }
+  top: 0;
+  bottom: auto;
+  width: 1.4em;
+  height: 1.4em;
+}
 
   .about-grid,
   .contact-grid {
