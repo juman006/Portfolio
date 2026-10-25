@@ -522,12 +522,15 @@ textarea:focus-visible {
     margin-top: 1.75rem;
   }
 
+  html { scroll-padding-top: 1rem; }
+  .site-header { position: static; }
+
   .pill {
-  top: 0;
-  bottom: auto;
-  width: 1.4em;
-  height: 1.4em;
-}
+    top: 0;
+    bottom: auto;
+    width: 1.9em;
+    height: 1.9em;
+  }
 
   .about-grid,
   .contact-grid {
